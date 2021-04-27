@@ -1,0 +1,9 @@
+com\smaato\codec\MessageEncoder.class
+com\smaato\client\CacheClient$1.class
+com\smaato\client\CacheClient.class
+com\smaato\common\Event.class
+com\smaato\client\DistCacheClient.class
+com\smaato\codec\MessageDecoder.class
+com\smaato\client\ClientMessageHandler.class
+com\smaato\client\State.class
+com\smaato\common\Constant.class
